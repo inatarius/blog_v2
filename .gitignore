@@ -3,3 +3,4 @@ blog_v2/
 .DS_Store
 migrations/
 webapp/templates/.DS_Store
+webapp/templates/blog_v2/.DS_Store
